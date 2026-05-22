@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/kg-aem-eds/:/"
+  ],
+  "includes": [
+    "/content/kg-aem-eds/"
+  ]
+}
