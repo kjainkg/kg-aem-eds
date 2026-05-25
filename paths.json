@@ -2,7 +2,7 @@
   "mappings": [
     "/content/kg-aem-eds/:/",
     "/content/kg-aem-eds/configuration:/.helix/config.json",
-    "/content/kg-aem-eds/metadata:/metadata.json"
+    "/content/kg-aem-eds/metadata:/metadata.json"
   ],
   "includes": [
     "/content/kg-aem-eds/"
